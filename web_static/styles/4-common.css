@@ -5,3 +5,17 @@ body {
     font-family: Circular, "Helvetica Neue", Arial, Helvetica, sans-serif;
     color: #484848;
 }
+
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+    margin-bottom: 30px;
+}
+
+button {
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
