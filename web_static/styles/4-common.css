@@ -1,21 +1,13 @@
 body {
-    margin: 0px;
-    padding: 0px;
-    font-size: 14px;
-    font-family: Circular, "Helvetica Neue", Arial, Helvetica, sans-serif;
-    color: #484848;
+	margin:0px;
+	padding:0px;
+
+	color: #484848;
+	font-size: 14px;
+	font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .container {
     max-width: 1000px;
     margin: 30px auto;
-    margin-bottom: 30px;
-}
-
-button {
-    cursor: pointer;
-}
-
-button:hover {
-    opacity: 0.9;
 }
