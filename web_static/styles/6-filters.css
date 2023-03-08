@@ -20,9 +20,9 @@
 }
 
 .locations:hover .popover {
-    display: block;
+    display: inline-block;
     box-sizing: border-box;
-    margin-block: 16px;
+    margin-block: 4px;
     margin-left: -1px;
 }
 
@@ -52,10 +52,10 @@
 }
 
 .amenities:hover .popover {
-    display: block;
+    display: inline-block;
     box-sizing: border-box;
     margin-left: -4px;
-    margin-block: 16px;
+    margin-block: 4px;
 }
 
 .amenities li {
@@ -70,7 +70,7 @@ li {
     line-height: 170%;
 }
 
-h2 {
+.popover h2 {
     font-size: 16px;
     margin-top: 25px;
     margin-bottom: 0px;
